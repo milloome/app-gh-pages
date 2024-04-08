@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e5b96566.js",
+    "static/js/825.232c83e5.chunk.js": "/static/js/825.232c83e5.chunk.js",
+    "static/js/473.345bd895.js": "/static/js/473.345bd895.js",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/3.png": "/static/media/3.89c4f73cfc5b6ffa53ff.png",
+    "static/media/map-mini-pink.png": "/static/media/map-mini-pink.69099b9b703ae8c844c1.png",
+    "static/media/logo-2.png": "/static/media/logo-2.69c3d9beb4ab30eb0c37.png",
+    "static/media/adaptive-icon.png": "/static/media/adaptive-icon.c1dd00ac0d2c885de770.png",
+    "static/media/google-play-badge.png": "/static/media/google-play-badge.fba1eb9912de1fd2cd21.png",
+    "index.html": "/index.html",
+    "favicon.png": "/favicon.png",
+    "404.html": "/404.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "ads.txt": "/ads.txt",
+    "app-ads.txt": "/app-ads.txt",
+    "CNAME": "/CNAME",
+    "main.e5b96566.js.map": "/static/js/main.e5b96566.js.map",
+    "825.232c83e5.chunk.js.map": "/static/js/825.232c83e5.chunk.js.map",
+    "473.345bd895.js.map": "/static/js/473.345bd895.js.map"
+  },
+  "entrypoints": [
+    "static/js/473.345bd895.js",
+    "static/js/main.e5b96566.js"
+  ]
+}
